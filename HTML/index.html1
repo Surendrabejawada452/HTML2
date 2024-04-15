@@ -1,0 +1,16 @@
+<!DOCTYPE html><!-- This line tells the following document is HTML TYPE -->
+<html lang="en"><!-- html starting- open tag and language is englist --> 
+<head><!-- head is used for metadata - data about data-->
+    <meta charset="UTF-8">
+    <!-- meta charset will tell browser that this website uses UTF-8 characters-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- meta viewport will make site changes as per device width-->
+    <title>Document</title>
+    <!-- Title Defines the actual title of the webpage-->
+</head>
+<body>
+    <!-- body contains the actual content of the website-->
+    <h1>Heading1</h1>
+    
+</body>
+</html>

@@ -1,0 +1,29 @@
+download vs code
+download and install git, git -vs
+create an account in github
+
+.................................................
+open folder--> goto path---> cmd ---> code .
+
+Extensions--->Material Icon theme by pkief
+
+HTML==>Hyper Text Markep language started in 1992 by CERN
+GML(Generalized ML)=>SGML(Standard GML)=>HTML
+Current Version of HTML is HTML5
+HTML3-->Paragraphs,headings,anchor tags,image
+HTML4-->tables,lists,forms,
+HTML5-->Advanced-->semantic elements.Dragan Drop,canvas,geolocation
+
+HTML is used for the content or structure of the web page,it includes links,tables,data,forms,images,media etc...
+
+Everything in HTML is done by Tags.
+<tagname> ----->open tagname
+</tagname>-----> close tag
+Whole HTML is in html elemet,Inside HTML element,you will have head and  body elements
+
+Tag vs element
+<h1> ---> h1 open tag
+  Content
+</h1> ---> h1 close tag
+
+Element contains opentag+content+closetag
