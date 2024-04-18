@@ -27,3 +27,4 @@ Tag vs element
 </h1> ---> h1 close tag
 
 Element contains opentag+content+closetag
+In VS code there are some shortcuts known as emmets

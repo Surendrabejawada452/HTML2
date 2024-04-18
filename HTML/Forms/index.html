@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <h1>LLR Registation Form</h1>
+    <!--reg form ,login form, contact from,survey form, application, feedback,  search, subscribe-->
+    <form action="main.py" method="post"></form>
+    <!--5 min create a simple registration form with name,email,age,password-->
+    <div>
+        <label for="uname">username:</label>
+        <input type="text"name="uname"id="uname"
+    </div><br>
+        <div>
+            <label for="em">email:</label>
+            <input type="email"name="email"id="em"
+        </div><br><br>
+        <div>
+            <label for="age">Age</label>
+            <input type="number" placeholder="enter age">
+        </div><br><br>
+            <div>
+                <label for="DOB">Date of birth</label>
+                <input type="date" name="dob" id="DOB">
+            </div><br>
+            <!-- radio, check boxes, drop downs -->
+            <p>Types of Vehicles:</p>
+            <input type="checkbox" name="Vehicles" id="2 wheeler"><label for="2 wheeler">2 wheeler</label>
+            <input type="checkbox" name="Vehicles" id="4 wheeler"><label for="4 wheeler">4 wheeler</label>
+            <br><br>
+            <p>Select gender:</p>
+            <input type="radio" name="m" id="ma">
+            <label for="ma">Male</label>
+            <input type="radio" name="m" id="fe">
+            <label for="fe">female</label>
+            <br><br>
+            <p>All Vehicles List:</p>
+            <select name="Vehicles" id="vehicle">
+                <optgroup label="Vehicles">
+                    <option value="">Bike</option>
+                    <option value="">Car</option>
+                    <option value="">Lorry</option>
+                    <option value="">Tractor</option>
+                    <option value="">Auto</option>
+                </optgroup>
+            </select><br><br>
+                <button type="submit">
+                    submit
+                </button><br>
+    
+    
+</body>
+</html>
